@@ -3,7 +3,7 @@
   "private": true,
   "description": "An attempt at understanding the gurbani",
   "version": "0.1.0",
-  "homepage": "https://gurubani.github.io/react-gh-pages",
+  "homepage": "https://gurubani.github.io",
   "license": "0BSD",
   "scripts": {
     "predeploy": "npm run build",
